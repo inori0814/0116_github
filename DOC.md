@@ -38,8 +38,10 @@ def hello():
 hello()
 ```
 
-```
+---
 
 ![](./ntub.png)
 
-[Go to header1](#Header1)
+
+[Go to Header1](#Header1)
+[Go to page A](./a.md)

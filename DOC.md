@@ -40,7 +40,7 @@ hello()
 
 ---
 
-![](./ntub.png)
+![](./ntub.jpg)
 
 
 [Go to Header1](#Header1)  
